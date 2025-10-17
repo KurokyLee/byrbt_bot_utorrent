@@ -1,4 +1,4 @@
-# byrbt_pt_utorrent
+# byrbt_bot_utorrent
 
 适用于 uTorrent 的 ByrBT 自动做种机器人。项目来源于[byrbt_bot](https://github.com/ByrBT/byrbt_bot)，完成了适配 uTorrent 和一些可视化的工作。utorrent api 文档参考自[utorrent-web-api](https://github.com/LakithaRav/uTorrent-client-python)。
 
